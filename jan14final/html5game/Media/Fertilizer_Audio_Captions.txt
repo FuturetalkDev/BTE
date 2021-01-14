@@ -1,0 +1,127 @@
+1
+Next time you're hungry, here's something to chew on while you walk to the kitchen.
+play
+.
+2
+The food you're about to eat probably wouldn't be there without one of the greatest chemical reactions ever invented.
+play
+.
+3
+Choose bubble 1 to find out why.
+stop
+.
+4
+Hit bubble 2 to see how two chemists in the early 1900s figured out how to break those stubborn nitrogen gas molecules apart.
+stop
+.
+5
+Why does Fritz Haber's reaction produce so little ammonia? Select bubble 3 to find out.
+stop
+.
+6
+OK, now you've seen how the Haber-Bosch fertilizer reaction works from afar. Now it's time to play our game and mess around with it yourself.
+stop
+.
+7
+ 
+play
+.
+8
+Your first job is to identify the reactants—the main ingredient—and the end product.
+play
+.
+9
+The arrow in the middle shows the direction of the reaction, which needs energy—in this case, in the form of heat—to get started.
+play
+.
+10
+Match the chemical formula for each molecule with its common name by dragging each into the correct box under the common name. If a box turns red, try again with another formula.
+stop
+.
+11
+Excellent! Those are the correct chemical formulas. Now it's time to make sure we have the right amounts of each by balancing the equation.
+stop
+.
+12
+Using the fewest molecules possible, balance the total number of atoms on the reactants side with the atoms on the product side.
+play
+.
+13
+Why does the number of each have to be the same?
+play
+.
+14
+Because in chemical reactions atoms are never destroyed, they're just rearranged—transformed from one combination into another.
+play
+.
+15
+Use the arrows to add or subtract each molecule.
+play
+.
+16
+As you do, notice how the total number of each atom above is determined by multiplying the coefficient
+play
+.
+17
+—the number of molecules—by the subscript—the little number below and to the right of each atom that says how many atoms are in each molecule. 
+stop
+.
+18
+Well done! You've successfully balanced the reactants and product.
+play
+.
+19
+Now it's time to visualize the reaction symbolized by this formula of letters and numbers. You'll do that by breaking the reactant molecules apart and then putting them back together as the product.
+stop
+.
+20
+First put the reactants into the bin. Assume that this reaction is taking place under the high pressure and temperature conditions described in the last video.
+stop
+.
+21
+Now add energy to start the reaction. Push the arrow button to add more energy until the molecules break apart.
+stop
+.
+22
+Nice! To help you out, we're now pausing the action and organizing the elements into neat little piles of atoms
+play
+.
+23
+—something that doesn't—I repeat, does not—really happen in nature. But hey, this is a game.
+play
+.
+24
+Drag each atom into the correct mold for the molecules that make up the products for the reaction. You'll know the arrangement is right when the bonds light up.
+play
+.
+25
+ 
+play
+.
+26
+ 
+stop
+.
+27
+Fantastic. You've combined nitrogen and hydrogen to form ammonia, the key ingredient in fertilizers.
+stop
+.
+28
+Phew, that's one tricky reaction! Now that you've figured it out, choose bubble 5 to find out the massive impact it's had on our world.
+stop
+.
+29
+Unfortunately, not all the impacts of the Haber-Bosch fertilizer reaction are positive. Select bubble 6 to understand the big problems this world-altering chemistry has caused.
+stop
+.
+30
+Well done! And if learning all that chemistry made you hungry, go get the snack that was probably made possible by fertilizer from the Haber-Bosch reaction.
+play
+.
+31
+Select the icon in the upper left to return to the home screen, where you can choose your next reaction.
+stop
+.
+32
+-
+stop

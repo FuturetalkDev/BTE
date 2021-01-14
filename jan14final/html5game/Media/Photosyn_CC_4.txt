@@ -1,0 +1,309 @@
+﻿00:00:00.760 --> 00:00:03.910
+Steve Long and Don Ort,
+2
+00:00:03.910 --> 00:00:06.860
+two plant biologists at the University of Illinois,
+3
+00:00:06.860 --> 00:00:09.660
+Urbana-Champaign, along with thousands
+4
+00:00:09.660 --> 00:00:12.070
+of other scientists from around the world,
+5
+00:00:12.070 --> 00:00:14.530
+have spent decades, teasing apart
+6
+00:00:14.530 --> 00:00:17.150
+the workings of photosynthesis.
+7
+00:00:17.150 --> 00:00:18.450
+Light intensity's 900 right now?
+8
+00:00:18.450 --> 00:00:19.650
+Right now, yeah.
+9
+00:00:19.650 --> 00:00:21.392
+Oh yeah, for barbarian that makes sense.
+10
+00:00:21.392 --> 00:00:23.440
+(men murmuring)
+11
+00:00:23.440 --> 00:00:25.740
+Now, with that knowledge in hand,
+12
+00:00:26.830 --> 00:00:29.520
+there's a new international research effort,
+13
+00:00:29.520 --> 00:00:33.203
+based here at the university, with an audacious goal.
+14
+00:00:35.200 --> 00:00:37.780
+The program's called RIPE.
+15
+00:00:37.780 --> 00:00:41.420
+Realizing, Increased, Photosynthetic, Efficiency.
+16
+00:00:41.420 --> 00:00:43.630
+This year was a huge hit for the canola farmers
+17
+00:00:43.630 --> 00:00:45.000
+because it was too wet.
+18
+00:00:45.000 --> 00:00:47.250
+So I've been wondering whether it would be worth
+19
+00:00:47.250 --> 00:00:49.150
+trying to find a substitute
+20
+00:00:49.150 --> 00:00:50.400
+as a test bed.
+21
+00:00:50.400 --> 00:00:51.390
+That'd be perfect.
+22
+00:00:51.390 --> 00:00:54.773
+These folks want to hack photosynthesis.
+23
+00:00:56.860 --> 00:00:58.963
+But why would you want to do that?
+24
+00:01:00.800 --> 00:01:02.460
+Because experts think the earth
+25
+00:01:02.460 --> 00:01:05.253
+is about to get a whole lot more people.
+26
+00:01:09.160 --> 00:01:13.230
+Today, the world's population is close to 8 billion
+27
+00:01:13.230 --> 00:01:17.493
+and that's forecast to hit 9.7 billion by 2050.
+28
+00:01:20.740 --> 00:01:24.913
+Raising the question, will there be enough food?
+29
+00:01:28.490 --> 00:01:29.910
+If you look at the current rate
+30
+00:01:29.910 --> 00:01:34.910
+of which we're improving crop productivity per acre of land
+31
+00:01:35.170 --> 00:01:36.683
+we're not going to get there.
+32
+00:01:38.890 --> 00:01:39.723
+Part of the answer
+33
+00:01:39.723 --> 00:01:42.954
+is going to be, redesigning photosynthesis.
+34
+00:01:42.954 --> 00:01:46.621
+(bright instrumental music)
+35
+00:01:47.890 --> 00:01:50.320
+To learn more about RIPE's plans,
+36
+00:01:50.320 --> 00:01:53.990
+I've joined Lisa Ainsworth, a USDA scientist
+37
+00:01:53.990 --> 00:01:56.590
+and professor at the University of Illinois.
+38
+00:01:56.590 --> 00:01:58.350
+So you can see just how different the height is,
+39
+00:01:58.350 --> 00:01:59.700
+just in walking in one-
+40
+00:01:59.700 --> 00:02:02.300
+On an early morning tour of a field,
+41
+00:02:02.300 --> 00:02:07.270
+that contains 600 different varieties of soybeans.
+42
+00:02:07.270 --> 00:02:09.490
+Usually, you hear about efficiency,
+43
+00:02:09.490 --> 00:02:12.610
+like of a gas engine measured in terms of percentage
+44
+00:02:12.610 --> 00:02:15.420
+how much of the fuel is ultimately converted to energy,
+45
+00:02:15.420 --> 00:02:17.913
+what's the percentage efficiency for a plant?
+46
+00:02:19.100 --> 00:02:21.640
+Well, in terms of how much of the light energy,
+47
+00:02:21.640 --> 00:02:24.380
+it turns into sugar, it's pretty low,
+48
+00:02:24.380 --> 00:02:25.740
+maybe around three percent.
+49
+00:02:25.740 --> 00:02:26.830
+Three percent?!
+50
+00:02:26.830 --> 00:02:28.110
+That's terrible.
+51
+00:02:28.110 --> 00:02:29.270
+But you guys are gonna help it.
+52
+00:02:29.270 --> 00:02:30.396
+That's the plan.
+53
+00:02:30.396 --> 00:02:32.640
+(bright instrumental music)
+54
+00:02:32.640 --> 00:02:34.400
+To improve photosynthesis,
+55
+00:02:34.400 --> 00:02:36.440
+two other researchers with RIPE,
+56
+00:02:36.440 --> 00:02:38.570
+Amanda Cavanagh and Paul South,
+57
+00:02:38.570 --> 00:02:41.653
+have focused on one of its key molecules.
+58
+00:02:43.430 --> 00:02:45.560
+It has a very catchy name.
+59
+00:02:45.560 --> 00:02:48.190
+So the molecule, what we biologists call an enzyme
+60
+00:02:48.190 --> 00:02:49.660
+and so it does the work.
+61
+00:02:49.660 --> 00:02:52.030 
+Enzymes are like biological workers.
+62
+00:02:52.030 --> 00:02:54.212
+And the enzyme's called Rubisco.
+63
+00:02:54.212 --> 00:02:56.962
+(dramatic music)
+64
+00:02:58.380 --> 00:02:59.700
+It's RuBP,
+65
+00:02:59.700 --> 00:03:03.740
+or Ribulose-1,5-bisphosphate carboxylase-oxygenase.
+66
+00:03:03.740 --> 00:03:06.210
+(dramatic music)
+67
+00:03:06.210 --> 00:03:08.120
+And it's for most plant biologists,
+68
+00:03:08.120 --> 00:03:10.430
+one of our favorite enzymes on the planet.
+69
+00:03:10.430 --> 00:03:12.870
+Yeah, Rubisco is our shortened term for it.
+70
+00:03:12.870 --> 00:03:14.230
+Mainly cause it's fun to say.
+71
+00:03:14.230 --> 00:03:15.667
+Well, it's super fun to say.
+72
+00:03:15.667 --> 00:03:16.833
+Rubisco.
+73
+00:03:16.833 --> 00:03:17.666
+Rubisco (sing-song)
+74
+00:03:17.666 --> 00:03:18.499
+(man laughs)
+75
+00:03:18.499 --> 00:03:19.810
+But it's also a really cool enzyme
+76
+00:03:19.810 --> 00:03:21.790
+because it makes life on earth possible.
+77
+00:03:21.790 --> 00:03:23.890
+(upbeat music)
+78
+00:03:23.890 --> 00:03:26.380
+Rubisco, may not look so special,
+79
+00:03:26.380 --> 00:03:30.323
+but it is arguably the most important enzyme on the planet,
+80
+00:03:31.280 --> 00:03:34.083
+because of its critical role in photosynthesis.
+81
+00:03:35.680 --> 00:03:37.830
+Rubisco's job is to grab a molecule
+82
+00:03:37.830 --> 00:03:41.940
+of carbon dioxide and feed it into a molecular machine,
+83
+00:03:41.940 --> 00:03:44.173
+that's building carbon chains.
+84
+00:03:45.120 --> 00:03:47.410
+That means any carbon atom,
+85
+00:03:47.410 --> 00:03:50.300
+that's part of any plant anywhere,
+86
+00:03:50.300 --> 00:03:54.463
+got there, thanks to Rubisco or one of its close variants.
+87
+00:03:56.470 --> 00:03:58.354
+And because we eat plants,
+88
+00:03:58.354 --> 00:04:01.660
+or animals that ate plants,
+89
+00:04:01.660 --> 00:04:04.520
+that also includes just about every carbon atom
+90
+00:04:04.520 --> 00:04:05.373
+in your body,
+91
+00:04:06.320 --> 00:04:09.790
+all approximately 800 million,
+92
+00:04:09.790 --> 00:04:12.400
+billion, billion of them.
+93
+00:04:12.400 --> 00:04:14.457
+That's 26 zeros.
+94
+00:04:14.457 --> 00:04:17.820
+(dramatic music)
+95
+00:04:17.820 --> 00:04:21.240
+Not bad Rubisco, not bad.
+96
+00:04:21.240 --> 00:04:22.990
+Yeah, so if it's ever come from a plant,
+97
+00:04:22.990 --> 00:04:25.710
+it had to have gone through that enzyme of Rubisco.
+98
+00:04:25.710 --> 00:04:26.670
+That's wild!
+99
+00:04:26.670 --> 00:04:27.757
+Yep.
+100
+00:04:27.757 --> 00:04:29.150
+How come there's not like a Memorial
+101
+00:04:29.150 --> 00:04:30.923
+to Rubisco in Washington?
+102
+00:04:30.923 --> 00:04:33.920
+(upbeat music)
+103
+00:04:33.920 --> 00:04:35.553
+It seems like sort of important.
+.

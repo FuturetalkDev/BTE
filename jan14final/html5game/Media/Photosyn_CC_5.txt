@@ -1,0 +1,177 @@
+﻿00:00:00.100 --> 00:00:03.920
+RuBisCO is important, and that's why it's
+2
+00:00:03.920 --> 00:00:06.163
+the most plentiful protein on earth.
+3
+00:00:07.070 --> 00:00:09.420
+But, just because you're important,
+4
+00:00:09.420 --> 00:00:12.303
+doesn't mean you're entirely competent.
+5
+00:00:13.890 --> 00:00:18.290
+It's, in this case, not the best enzyme in the world.
+6
+00:00:18.290 --> 00:00:20.630
+It's got a hard job, so it's doing its best,
+7
+00:00:20.630 --> 00:00:22.810
+but at the same time it exists in an atmosphere
+8
+00:00:22.810 --> 00:00:24.970
+that's not predominantly carbon dioxide,
+9
+00:00:24.970 --> 00:00:26.280
+it's mostly oxygen.
+10
+00:00:26.280 --> 00:00:28.570
+And about one in every four or five reactions
+11
+00:00:28.570 --> 00:00:30.793
+it grabs oxygen instead of carbon dioxide.
+12
+00:00:31.980 --> 00:00:34.619
+That's right. RuBisCO screws up
+13
+00:00:34.619 --> 00:00:36.990
+about a fifth of the time.
+14
+00:00:36.990 --> 00:00:39.490
+Instead of attaching a carbon dioxide,
+15
+00:00:39.490 --> 00:00:42.200
+it attaches an oxygen molecule.
+16
+00:00:42.200 --> 00:00:43.121
+And that's trouble.
+17
+00:00:43.121 --> 00:00:43.954
+(alarm beeping)
+18
+00:00:43.954 --> 00:00:45.620
+You're saying nature has created
+19
+00:00:45.620 --> 00:00:48.620
+a screwed-up little worker enzyme?
+20
+00:00:48.620 --> 00:00:50.840
+Yeah, so, 400 million years ago,
+21
+00:00:50.840 --> 00:00:51.890
+when this enzyme evolved,
+22
+00:00:51.890 --> 00:00:53.940
+there wasn't very much oxygen in the air.
+23
+00:00:55.270 --> 00:00:57.470
+All right, so I'm the little RuBisCO enzyme,
+24
+00:00:57.470 --> 00:00:59.440
+and, like, on the conveyor belt here,
+25
+00:00:59.440 --> 00:01:01.570
+and, okay, carbon dioxide, carbon dioxide,
+26
+00:01:01.570 --> 00:01:03.430
+carbon dioxide, carbon dioxide, oxygen,
+27
+00:01:03.430 --> 00:01:05.900
+and I don't notice I accidentally grabbed an oxygen
+28
+00:01:05.900 --> 00:01:06.753
+out of the box.
+29
+00:01:06.753 --> 00:01:08.520
+(laughter)
+30
+00:01:08.520 --> 00:01:10.770
+And it produces compounds that are inhibitory
+31
+00:01:10.770 --> 00:01:13.390
+to photosynthesis, so it kinda starts to shut things down.
+32
+00:01:13.390 --> 00:01:15.230
+I mean, it's been going on for billions of years,
+33
+00:01:15.230 --> 00:01:16.230
+and nobody's cared.
+34
+00:01:16.230 --> 00:01:17.063
+Yeah, well-
+35
+00:01:17.063 --> 00:01:18.240
+I mean, it all basically works.
+36
+00:01:18.240 --> 00:01:20.730
+Photosynthesis right now is sort of a victim
+37
+00:01:20.730 --> 00:01:21.810
+of its own success.
+38
+00:01:21.810 --> 00:01:22.970
+RuBisCO certainly is.
+39
+00:01:22.970 --> 00:01:26.170
+So by oxygenating the atmosphere via photosynthesis,
+40
+00:01:26.170 --> 00:01:30.500
+you now have a huge amount of oxygen in the atmosphere,
+41
+00:01:30.500 --> 00:01:33.664
+but you need a carbon dioxide to make the reaction work.
+42
+00:01:33.664 --> 00:01:35.490
+(alarm sounding)
+43
+00:01:35.490 --> 00:01:38.073
+So, what happens when RuBisCO screws up?
+44
+00:01:39.850 --> 00:01:41.740
+The result gets shipped out
+45
+00:01:43.000 --> 00:01:45.701
+through a couple other parts of the cell,
+46
+00:01:45.701 --> 00:01:49.630
+to where the mess is taken apart and recycled.
+47
+00:01:49.630 --> 00:01:52.713
+All of which consumes a lot of energy.
+48
+00:01:53.970 --> 00:01:56.780
+If you could fix this inefficiency problem,
+49
+00:01:56.780 --> 00:01:59.810
+the plant might make more soybeans, corn,
+50
+00:01:59.810 --> 00:02:00.644
+whatever it is?
+51
+00:02:00.644 --> 00:02:01.477
+That's exactly it.
+52
+00:02:01.477 --> 00:02:02.940
+Then they will have that energy to put towards
+53
+00:02:02.940 --> 00:02:05.130
+something that we would consider useful,
+54
+00:02:05.130 --> 00:02:06.670
+like making more food for us to eat.
+55
+00:02:06.670 --> 00:02:09.480
+Is this just a crazy theory, or is there some indication
+56
+00:02:09.480 --> 00:02:10.590
+that this could actually work?
+57
+00:02:10.590 --> 00:02:12.520
+There's quite a bit of evidence that this is working.
+58
+00:02:12.520 --> 00:02:14.390
+So right now we have this tested in a couple
+59
+00:02:14.390 --> 00:02:15.240
+of model species.
+.
