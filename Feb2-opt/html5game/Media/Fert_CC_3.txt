@@ -1,0 +1,63 @@
+﻿00:00:01.369 --> 00:00:03.350
+(gentle music)
+2
+00:00:03.350 --> 00:00:04.183
+Part of the problem
+3
+00:00:04.183 --> 00:00:06.553
+is that this equation is a two-way street.
+4
+00:00:07.880 --> 00:00:11.230
+Some reactions are one way, irreversible.
+5
+00:00:11.230 --> 00:00:12.770
+When you bake a cake,
+6
+00:00:12.770 --> 00:00:14.303
+you can't unbake it.
+7
+00:00:15.720 --> 00:00:17.330
+But the Haber-Bosch process,
+8
+00:00:17.330 --> 00:00:21.573
+like many reactions, goes both ways at the same time.
+9
+00:00:22.610 --> 00:00:24.540
+So while some of the nitrogen and hydrogen
+10
+00:00:24.540 --> 00:00:29.130
+are forming ammonia, some of the ammonia is breaking down
+11
+00:00:29.130 --> 00:00:30.883
+into nitrogen and hydrogen.
+12
+00:00:32.050 --> 00:00:35.030
+The trick is to find the optimal conditions
+13
+00:00:35.030 --> 00:00:37.680
+where that balance heads in the direction you want.
+14
+00:00:40.420 --> 00:00:41.883 
+One tool is pressure.
+15
+00:00:42.770 --> 00:00:45.870
+Bosch's industrialized version compressed the gases
+16
+00:00:45.870 --> 00:00:50.070 
+to around 175 times normal atmospheric pressure,
+17
+00:00:50.070 --> 00:00:53.789
+and that huge pressure cooker ran very hot.
+18
+00:00:53.789 --> 00:00:58.789
+550 degrees Celsius, around 1,000 degrees Fahrenheit,
+19
+00:00:59.360 --> 00:01:01.360
+enough to make the hydrogen and nitrogen
+20
+00:01:01.360 --> 00:01:03.270 
+react with a catalyst,
+21
+00:01:03.270 --> 00:01:06.253
+but not so hot as to break up a lot of ammonia.
+.

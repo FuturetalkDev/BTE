@@ -1,0 +1,189 @@
+﻿00:00:01.016 --> 00:00:02.620
+(ambient music)
+2
+00:00:02.620 --> 00:00:04.290
+Around 1910,
+3
+00:00:04.290 --> 00:00:08.200
+German chemist Fritz Haber and his team found the answer.
+4
+00:00:08.200 --> 00:00:12.231
+Which they demonstrated using this tabletop machine,
+5
+00:00:12.231 --> 00:00:13.064
+(air whooshing)
+6
+00:00:13.064 --> 00:00:15.530
+from nitrogen gas and hydrogen gas,
+7
+00:00:15.530 --> 00:00:19.350
+he could produce NH3, ammonia,
+8
+00:00:19.350 --> 00:00:23.263
+a fertilizer itself and a starting point to produce others.
+9
+00:00:24.912 --> 00:00:25.745
+(flash)
+10
+00:00:25.745 --> 00:00:28.878
+German chemist Carl Bosch brought Haber's work
+11
+00:00:28.878 --> 00:00:29.711
+(objects thudding)
+12
+00:00:29.711 --> 00:00:30.913
+to an industrial scale,
+13
+00:00:31.970 --> 00:00:35.292
+which is why it's known as the Haber-Bosch process.
+14
+00:00:35.292 --> 00:00:36.125
+(air whooshing)
+15
+00:00:36.125 --> 00:00:38.000
+Ed and his colleague Joe Franek,
+16
+00:00:38.000 --> 00:00:40.250
+show me their tabletop version.
+17
+00:00:40.250 --> 00:00:42.400 
+Joe, maybe you can show us
+18
+00:00:42.400 --> 00:00:45.470
+a little more hands-on how the Haber-Bosch process works.
+19
+00:00:45.470 --> 00:00:47.850
+All right. We're going to put
+20
+00:00:47.850 --> 00:00:50.900
+a quantity of nitrogen in this syringe,
+21
+00:00:50.900 --> 00:00:52.260
+then we're gonna put three times
+22
+00:00:52.260 --> 00:00:55.360
+that amount of hydrogen in this syringe,
+23
+00:00:55.360 --> 00:00:57.010
+going to light our Bunsen burner,
+24
+00:00:57.010 --> 00:00:59.020
+and we're gonna pass that mixture of gases
+25
+00:00:59.020 --> 00:01:01.030
+over what will be our hot catalyst,
+26
+00:01:01.030 --> 00:01:02.910
+which is iron in this case,
+27
+00:01:02.910 --> 00:01:05.700
+and that will facilitate the conversion
+28
+00:01:05.700 --> 00:01:09.350
+of the nitrogen and hydrogen into ammonia.
+29
+00:01:09.350 --> 00:01:13.230
+Okay. So, one syringe full of nitrogen
+30
+00:01:13.230 --> 00:01:14.990
+and three times as much hydrogen
+31
+00:01:14.990 --> 00:01:18.170
+because the formula for ammonia is NH3.
+32
+00:01:18.170 --> 00:01:20.066
+There we go. It all makes sense.
+33
+00:01:20.066 --> 00:01:21.870
+(ambient music)
+34
+00:01:21.870 --> 00:01:24.620
+Joe passes the mixture over some steel wool
+35
+00:01:24.620 --> 00:01:26.820
+heated by a Bunsen burner.
+36
+00:01:26.820 --> 00:01:29.470
+The steel wool acts as a catalyst,
+37
+00:01:29.470 --> 00:01:31.649
+a material that helps a reaction along
+38
+00:01:31.649 --> 00:01:32.482
+(gas squeaking)
+39
+00:01:32.482 --> 00:01:34.097
+while not getting consumed by it.
+40
+00:01:34.097 --> 00:01:35.810
+(air whooshing)
+41
+00:01:35.810 --> 00:01:37.120
+After six minutes,
+42
+00:01:37.120 --> 00:01:38.723
+it's time to see if it worked.
+43
+00:01:39.590 --> 00:01:42.400
+So, we now have all of our gases,
+44
+00:01:42.400 --> 00:01:44.790
+our unreacted nitrogen and hydrogen,
+45
+00:01:44.790 --> 00:01:48.100
+and the ammonia we produce in this one syringe
+46
+00:01:48.100 --> 00:01:51.330
+and what I'm going to do is to flush all of these gases
+47
+00:01:51.330 --> 00:01:53.060
+through our indicator tube.
+48
+00:01:53.060 --> 00:01:56.260
+If we flush some ammonia through these yellow beads,
+49
+00:01:56.260 --> 00:02:00.236
+they'll turn blue. Bravo. I see blue.
+50
+00:02:00.236 --> 00:02:02.980
+(ambient music)
+51
+00:02:02.980 --> 00:02:05.600
+So, how much ammonia do you think we got?
+52
+00:02:05.600 --> 00:02:08.360
+Well, our indicator on the tube
+53
+00:02:08.360 --> 00:02:10.880
+says that we have just slightly less
+54
+00:02:10.880 --> 00:02:13.200
+than two parts per million of ammonia.
+55
+00:02:13.200 --> 00:02:14.860
+Two parts per million!
+56
+00:02:14.860 --> 00:02:17.380
+So, out of every million molecules,
+57
+00:02:17.380 --> 00:02:18.696
+you got two of ammonia?!
+58
+00:02:18.696 --> 00:02:20.600
+(ambient music)
+59
+00:02:20.600 --> 00:02:21.860
+At room temperature,
+60
+00:02:21.860 --> 00:02:24.390
+this process barely works
+61
+00:02:24.390 --> 00:02:27.450
+and even with our burner heating things up a bit,
+62
+00:02:27.450 --> 00:02:30.040
+nitrogen gas is so inert,
+63
+00:02:30.040 --> 00:02:31.593
+the reaction isn't much better.
+.
